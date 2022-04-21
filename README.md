@@ -49,8 +49,6 @@ Jordi Hernandez
 ### GitHub/Heroku-Deployment
 [Heroku](https://note-note-now.herokuapp.com/)
 [GitHub](https://github.com/hernajor133/Note-Note-Now) 
-### Email
-https://github.com/hernajor133
 ## License 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   [This application is licensed under MIT](https://opensource.org/licenses/MIT)
